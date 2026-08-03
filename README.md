@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |

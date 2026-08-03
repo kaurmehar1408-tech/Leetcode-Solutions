@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Divide and Conquer
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

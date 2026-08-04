@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |

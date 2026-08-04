@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0344-reverse-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |

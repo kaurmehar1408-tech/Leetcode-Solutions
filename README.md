@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,6 @@ class Solution {
                return i;  
             }
         }
-        return nums.length-1;
+        return n-1;
     }
 }

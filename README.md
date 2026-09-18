@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

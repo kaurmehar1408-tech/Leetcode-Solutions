@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

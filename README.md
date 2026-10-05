@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Game Theory
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |

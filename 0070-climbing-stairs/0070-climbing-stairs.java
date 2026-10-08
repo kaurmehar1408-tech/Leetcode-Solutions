@@ -3,14 +3,14 @@ class Solution {
         if(n<=2){
             return n;
         }
-        int current = 0;
-        int prev1 = 2;
-        int prev2 = 1;
+        int a = 1;
+        int b = 2;
+        int c = 0;
         for(int i=3;i<=n;i++){
-            current = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = current;
+            c = a + b;
+            a = b;
+            b = c;
         }
-        return current;
+        return c;
     }
 }

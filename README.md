@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |

@@ -1,18 +1,15 @@
-import java.util.*;
 class Solution {
     public int majorityElement(int[] nums) {
-        HashMap <Integer,Integer> counter = new HashMap<>();
-
-        for(int num : nums){
-            counter.put(num,counter.getOrDefault(num,0)+1);
-        }
+        HashMap <Integer,Integer> count = new HashMap<>();
         int maxcount = -1;
         int res = -1;
-
-        for(int num:counter.keySet()){
-            if(counter.get(num)>maxcount){
-                maxcount = counter.get(num);
-                res = num;
+        for(int num:nums){
+            count.put(num,count.getOrDefault(num,0)+1);
+        }
+        for(int num:count.keySet()){
+            if(count.get(num)>maxcount){
+               maxcount = count.get(num);
+               res = num;
             }
         }
         return res;

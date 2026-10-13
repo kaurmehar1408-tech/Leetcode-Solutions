@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->

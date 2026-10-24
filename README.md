@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kaurmehar1408-tech/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Game Theory
 |  |
